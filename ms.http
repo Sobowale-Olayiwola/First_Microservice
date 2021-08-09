@@ -1,0 +1,5 @@
+### GET RESULT ABOUT THE APP
+GET localhost:3000/about1 HTTP/1.1
+
+### GET DISTANCE BETWEEN TWO LEGO STORE
+GET localhost:3000/distance/:zipcode1/:zipcode2 HTTP/1.1
